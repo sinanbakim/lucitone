@@ -1,0 +1,15 @@
+{
+  "id": "c1b1728d-4507-4886-afe3-08de5869abee",
+  "label": "lucitone NoFlo runtime",
+  "secret": "cipesamose",
+  "permissions": {
+    "cipesamose": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "lucitone",
+  "description": "A tonal and visual garden for playful passionaters",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinanbakim/lucitone.git"
+  },
+  "keywords": [
+    "sound",
+    "design",
+    "creativity",
+    "artful",
+    "ideas"
+  ],
+  "author": "Sinan Bakim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinanbakim/lucitone/issues"
+  },
+  "homepage": "https://github.com/sinanbakim/lucitone#readme",
+  "dependencies": {
+    "noflo": "^1.4.3",
+    "noflo-core": "^0.6.1",
+    "noflo-filesystem": "^2.2.0",
+    "noflo-nodejs": "^0.15.1"
+  },
+  "devDependencies": {
+    "noflo-component-loader": "^0.4.1"
+  }
+}
