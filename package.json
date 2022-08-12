@@ -27,6 +27,7 @@
     "noflo": "^1.4.3",
     "noflo-core": "^0.6.1",
     "noflo-filesystem": "^2.2.0",
+    "noflo-graph": "^0.4.0",
     "noflo-nodejs": "^0.15.1"
   },
   "devDependencies": {
